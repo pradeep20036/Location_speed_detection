@@ -1,0 +1,2 @@
+rootProject.name='map plotting'
+include ':app'
